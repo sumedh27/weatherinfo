@@ -1,4 +1,4 @@
-const key = 'R8kxttgfE7ZV9jZKCYsaJSWzMY0hl9Vf';
+const key = ''; // accu weather api key
 
 // get weather
 
